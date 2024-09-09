@@ -8,14 +8,14 @@ Through this course, you will gain hands-on experience and a deep understanding 
 
 ## **Table of Contents**
 
-1. [Introduction to AI and Investing](#introduction-to-ai-and-investing)
-2. [Data Science Fundamentals for Investing](#data-science-fundamentals-for-investing)
-3. [Introduction to Machine Learning in Finance](#introduction-to-machine-learning-in-finance)
-4. [Advanced Machine Learning Techniques for Investing](#advanced-machine-learning-techniques-for-investing)
-5. [AI-Driven Trading Strategies](#ai-driven-trading-strategies)
-6. [Portfolio Management with AI](#portfolio-management-with-ai)
-7. [Project and Presentation](#project-and-presentation)
-8. [Additional Resources and Continuous Learning](#additional-resources-and-continuous-learning)
+1. Introduction to AI and Investing(#introduction-to-ai-and-investing)
+2. Data Science Fundamentals for Investing(#data-science-fundamentals-for-investing)
+3. Introduction to Machine Learning in Finance(#introduction-to-machine-learning-in-finance)
+4. Advanced Machine Learning Techniques for Investing(#advanced-machine-learning-techniques-for-investing)
+5. AI-Driven Trading Strategies(#ai-driven-trading-strategies)
+6. Portfolio Management with AI(#portfolio-management-with-ai)
+7. Project and Presentation(#project-and-presentation)
+8. Additional Resources and Continuous Learning(#additional-resources-and-continuous-learning)
 
 ---
 
